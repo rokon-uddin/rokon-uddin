@@ -1,71 +1,46 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/rokonuddin/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://engineering.monstar-lab.com/en/authors/rokon-uddin/">
-      <img src="https://img.shields.io/badge/Monstarlab-yellow?style=for-the-badge&logo=monstarlab&logoColor=white" alt="Monstarlab Badge"/>
-    </a>
-    <a href="https://twitter.com/RokonMohammed">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=rokon-uddin&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hello World
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<h2> Hey there! I'm Rokon. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+<img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="500"/>
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I’m currently learning Mechine Learning.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and mobile app architecture.
+- 🎓 &nbsp; Completed bachelor's degree in Computer Science and Engineering, computer programming and Mathematics.
+- 💼 &nbsp; Mobile app developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- ✍️ &nbsp; Watching movie and trying out latest design trends as hobbies/side hustles.
+- ⚽️ &nbsp; Playing soccer is my second passion.
+- ☕ &nbsp; I belive, a perfect cup of tea can be the ultimate solution for any stress. 
 
 ---
 
-### :technologist: About Me :
-I am a Full Stack Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
-- :telescope: I’m working as a Software Engineer and contributing to iOS and Flutter for building Mobile applications.
+[![trophy](https://github-profile-trophy.vercel.app/?username=rokon-uddin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- :seedling: Exploring Technical Content Writing.
+----
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+<h3 align="left">🛠 Languages and Tools:</h3>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rokonuddin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rokonuddin/)
+<p align="left">
 
----
+<a href="www.apple.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="Apple" width="40" height="40"/> </a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
+ <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a><a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://developer.apple.com/xcode" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="Xcode" width="40" height="40"/> </a><a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://bitbucket.org/product/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a><a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="circleci" width="40" height="40"/> </a>
+</p>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" title="Obj-C" alt="Obj-C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="36" height="36"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="36" height="36"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" title="Sourcetree" **alt="Sourcetree" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" **alt="Bitbucket" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rokon-uddin&theme=onedark&show_icons=true&locale=en&layout=compact" alt="rokon-uddin"/>
 
----
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rokon-uddin&theme=onedark&show_icons=true&locale=en" alt="rokon-uddin"/>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rokon-uddin&theme=dark&background=000000)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rokon-uddin&theme=onedark" alt="rokon-uddin"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rokon-uddin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+<h3> 🤝🏻 Connect with Me </h3>
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-* [Swift: From Protocol to AssociatedType then Type](https://engineering.monstar-lab.com/en/post/2021/12/21/Swift-Type-Erasure/)
-* [UITableView DataSource Prefetching](https://engineering.monstar-lab.com/en/post/2022/01/14/TableView-DataSource-Prefetching/)
-* [Predicting Maternal Morbidity using Machine Learning Techniques](https://engineering.monstar-lab.com/en/post/2022/01/31/Predicting-Maternal-Morbidity-using-Machine-Learning-Techniques/)
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+&nbsp; <a href="https://twitter.com/RokonMohammed" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a> 
+&nbsp; <a href="https://www.linkedin.com/in/rokonuddin/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="rokon.shoaib@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+⭐️ From [Rokon Uddin](https://github.com/rokon-uddin)
