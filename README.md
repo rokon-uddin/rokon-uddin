@@ -3,14 +3,14 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Mechine Learning.
+- 🔭 &nbsp; I’m currently learning Machine Learning.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and mobile app architecture.
-- 🎓 &nbsp; Completed bachelor's degree in Computer Science and Engineering, computer programming and Mathematics.
+- 🎓 &nbsp; Completed bachelor's degree in Computer Science and Engineering, computer programming, and Mathematics.
 - 💼 &nbsp; Mobile app developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching movie and trying out latest design trends as hobbies/side hustles.
+- 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence.
+- ✍️ &nbsp; Watching movies and trying out the latest design trends as hobbies/side hustles.
 - ⚽️ &nbsp; Playing soccer is my second passion.
-- ☕ &nbsp; I believe, a perfect cup of tea can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of tea can be the ultimate solution for stress.
 
 ---
 
