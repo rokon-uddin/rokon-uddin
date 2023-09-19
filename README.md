@@ -10,7 +10,7 @@
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching movie and trying out latest design trends as hobbies/side hustles.
 - ⚽️ &nbsp; Playing soccer is my second passion.
-- ☕ &nbsp; I belive, a perfect cup of tea can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of tea can be the ultimate solution for any stress. 
 
 ---
 
