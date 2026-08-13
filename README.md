@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 ### About
 
 I've spent the last decade-plus building for Apple platforms, and I still get a small thrill every time a build compiles clean in Xcode. What started as curiosity about how iPhone apps actually worked turned into a career leading mobile engineering teams — right now a team of **34** at **Brain Station 23**, after years scaling a team of **16** at **Monstarlab** — and shipping software used by tens of millions of people, including an app serving **20M+ monthly active users**.
@@ -34,8 +32,6 @@ rokon:
   focus: ["iOS Architecture", "Performance Engineering", "On-device AI"]
   side_quests: ["3 solo-shipped App Store apps", "Technical writing on Medium"]
 ```
-
----
 
 ### Tech Stack
 
@@ -115,8 +111,6 @@ rokon:
 <a href="https://trello.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="26" height="26"/></a>
 </div>
 
----
-
 ### Independent Apps — Built &amp; Shipped Solo
 
 <table>
@@ -151,8 +145,6 @@ Multilingual vocabulary learning — spaced repetition, six quiz modes, streaks 
 </tr>
 </table>
 
----
-
 ### Recent Writing
 
 <table>
@@ -163,8 +155,6 @@ Multilingual vocabulary learning — spaced repetition, six quiz modes, streaks 
 
 <p align="right"><sub><a href="https://medium.com/@shoaib-rokon">more on Medium →</a></sub></p>
 
----
-
 ### GitHub Stats
 
 <div align="center">
@@ -173,8 +163,6 @@ Multilingual vocabulary learning — spaced repetition, six quiz modes, streaks 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokon-uddin&layout=compact&theme=tokyonight&hide_border=true&bg_color=16161f&title_color=A78BFA&text_color=9a9ab5" width="49%"/>
 </div>
-
----
 
 <div align="center">
 
