@@ -173,17 +173,3 @@ Multilingual vocabulary learning — spaced repetition, six quiz modes, streaks 
 </picture>
 
 </div>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rokonuddin/"><img src="https://img.shields.io/badge/LinkedIn-24283b?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="https://twitter.com/RokonMohammed"><img src="https://img.shields.io/badge/X_/_Twitter-24283b?style=flat-square&logo=x&logoColor=white"/></a>
-<a href="https://medium.com/@shoaib-rokon"><img src="https://img.shields.io/badge/Medium-24283b?style=flat-square&logo=medium&logoColor=white"/></a>
-<a href="https://rokon-uddin.github.io"><img src="https://img.shields.io/badge/Portfolio-24283b?style=flat-square&logo=safari&logoColor=A78BFA"/></a>
-<a href="mailto:shoaib.rokon@gmail.com"><img src="https://img.shields.io/badge/Email-24283b?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
-
-<br/><br/>
-
-<sub>Dhaka, Bangladesh</sub>
-
-</div>
