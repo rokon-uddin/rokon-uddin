@@ -166,6 +166,16 @@ Multilingual vocabulary learning — spaced repetition, six quiz modes, streaks 
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rokon-uddin/rokon-uddin/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rokon-uddin/rokon-uddin/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rokon-uddin/rokon-uddin/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/rokonuddin/"><img src="https://img.shields.io/badge/LinkedIn-24283b?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
 <a href="https://twitter.com/RokonMohammed"><img src="https://img.shields.io/badge/X_/_Twitter-24283b?style=flat-square&logo=x&logoColor=white"/></a>
 <a href="https://medium.com/@shoaib-rokon"><img src="https://img.shields.io/badge/Medium-24283b?style=flat-square&logo=medium&logoColor=white"/></a>
