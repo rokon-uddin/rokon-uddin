@@ -174,16 +174,6 @@ Multilingual vocabulary learning — spaced repetition, six quiz modes, streaks 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokon-uddin&layout=compact&theme=tokyonight&hide_border=true&bg_color=16161f&title_color=A78BFA&text_color=9a9ab5" width="49%"/>
 </div>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rokon-uddin/rokon-uddin/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rokon-uddin/rokon-uddin/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rokon-uddin/rokon-uddin/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
 ---
 
 <div align="center">
